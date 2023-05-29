@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 📝 Usage
 
-If you want to bridge USDC, run 'USDC_bot.py'
+If you want to bridge $USDC, run 'USDC_bot.py'
 
   ```python
 python USDC_bot.py
