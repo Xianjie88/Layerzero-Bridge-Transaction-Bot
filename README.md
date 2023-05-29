@@ -6,7 +6,7 @@ This bot is for the upcoming LayerZero airdrop, Automatically record Stargate Fi
 
 Automatically transfer **$STG** or **$USDC** held in your wallet from the **Polygon network** to the **Fantom network**, or vice versa. (via **Stargate Finance Bridge**).
 
-  > Why polygon, fhantom networks?
+  > Why polygon, fantom networks?
   > The reason is simple. It's because gas fees are the cheapest.
 
 ## 💨 Features
