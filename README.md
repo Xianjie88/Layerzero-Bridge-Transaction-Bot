@@ -20,7 +20,7 @@ Automatically transfer **$STG** or **$USDC** held in your wallet from the **Poly
 
 ## 🚧 Prerequisites
 
-- **Python 3.10.6**
+- **Python 3.10.6** (3.10.x versions are also possible)
 - **$STG** or **$USDC** (Bridge)
 - **$MATIC** and **$FTM** (Gas fee)
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
    > **No, mnemonic seed phrase**
    >
-   > [How to export an account&#39;s private key (MetaMask Offical Website)]: https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key	"How to export an account's private key (MetaMask Offical Website)"
+   > How to export an accounts private key​ https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key 
 
    
 
@@ -52,7 +52,7 @@ If you want to bridge USDC, run 'USDC_bot.py'
 python USDC_bot.py
   ```
 
-If you want to bridge $STG, run 'USDC_bot.py'.
+If you want to bridge $STG, run 'STG_bot.py'.
 
   ```python
 python STG_bot.py
