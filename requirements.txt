@@ -32,4 +32,4 @@ urllib3==1.26.15
 web3
 websockets==11.0.1
 yarl==1.8.2
-zk-modules
+zk-modules==0.1.1
